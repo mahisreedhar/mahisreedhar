@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahi Sreedhar
+#  Hi, I'm Mahi Sreedhar
 
 **Full-Stack & Mobile Developer | AI-Powered Tools | Real-World Impact**
 
@@ -6,7 +6,7 @@ Building offline-first applications and intelligent systems for underserved comm
 
 ---
 
-## 🚀 Featured Project: Jagruti
+##  Featured Project: Jagruti
 
 **Offline-first mobile app empowering 15+ field workers to monitor 1,200+ children**
 
@@ -47,16 +47,10 @@ An intelligent cross-platform survey collection platform built with Flutter and 
 
 ---
 
-## 💼 What I'm Working On
-
-- 🏥 **Health monitoring systems** for field workers in South India  
-- 🤖 **Agentic AI pipelines** using MCP servers and LangGraph  
-- 📊 **Data-driven dashboards** for real-world impact measurement  
-- 🚀 **Offline-first architecture** for connectivity-challenged regions  
 
 ---
 
-## 📌 Other Notable Projects
+##  Other Notable Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
@@ -69,9 +63,9 @@ An intelligent cross-platform survey collection platform built with Flutter and 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi-sreedhar&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahisreedhar&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-sreedhar&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahisreedhar&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
