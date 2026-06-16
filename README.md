@@ -56,7 +56,7 @@ An intelligent cross-platform survey collection platform built with Flutter and 
 |---------|-------------|-----------|
 | **SenseiSays** | Real-time AI exercise form checker with live feedback | React Native, TensorFlow Lite, Python |
 | **Energy-Efficient AI Models** | Research paper on carbon-optimized AI systems (25% efficiency gain) | ML, System Architecture |
-| **Sojara** | Digital records management for NGOs | React, Node.js |
+| **Sochara** | Digital records management for NGOs | React, Node.js |
 | **PawPal** | Pet health tracking and vet appointment app | Flutter, Firebase |
 
 ---
